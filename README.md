@@ -1,1 +1,1 @@
-# spidroin-screening-pipeline
+# spidroin-carrier-pipeline
